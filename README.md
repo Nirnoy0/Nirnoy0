@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://pbs.twimg.com/profile_images/1434576706577125378/1fMEaYk__400x400.jpg" align="center" style="width: 30%" style="height:25%" />
+<img src="[https://pbs.twimg.com/profile_images/1434576706577125378/1fMEaYk__400x400.jpg](https://media-exp2.licdn.com/dms/image/C5616AQFH9m0kaL3SUQ/profile-displaybackgroundimage-shrink_350_1400/0/1647272222001?e=1660780800&v=beta&t=-oESfGsFtnrrJv6CmddlaWgmbt1Qsi2TSKAIZM4uFpA)" align="center"  />
 </div>  
   
 # 💫About Me :
