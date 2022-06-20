@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/284849615_3224729097772150_3240405681104525874_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEyPZFjJGpjnj3A01zVsiUW9U-dQFBIdJj1T51AUEh0mFP_WExy9RnopDzSywpY5dBWFWtPRAorqkg0jA9Q7kfU&_nc_ohc=U5IMSGgCZE8AX_0kJei&_nc_ht=scontent.fdac24-1.fna&oh=00_AT8GSDeHrsVX4yu_-eUD72lQEoZt31VL6J0hIw4Jntc7Ag&oe=62B39BE1](https://ibb.co/7t66sKd)" align="center"  style="width:40%" style="height:20%"/>
+<img src="https://i.ibb.co/d4zz8Dw/nni.jpg" align="center"  style="width:40%" style="height:20%"/>
 </div>  
   
 # 💫About Me :
