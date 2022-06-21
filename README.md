@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/d4zz8Dw/nni.jpg" align="left"  style="width:40%" style="height:20%"/>
+<img src="https://i.ibb.co/d4zz8Dw/nni.jpg" align="left"  style="width:40%" style="height:25%"/>
 </div>  
   
 # 💫About Me :
